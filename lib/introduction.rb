@@ -1,4 +1,7 @@
 def introduction(name)
   puts "Hi, my name is #{name}."
-  puts
+end
+
+def intorduction_with_language
+  puts "Hi, my name is #{name} and I am learning to program in #{language}"
 end
